@@ -1,0 +1,33 @@
+{
+  "name": "next-js-ssr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hwnd1982/next-js-ssr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hwnd1982/next-js-ssr/issues"
+  },
+  "homepage": "https://github.com/hwnd1982/next-js-ssr#readme",
+  "dependencies": {
+    "next": "^13.4.19",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "sass": "^1.66.1"
+  },
+  "devDependencies": {
+    "@types/node": "20.5.9",
+    "@types/react": "18.2.21",
+    "typescript": "5.2.2"
+  }
+}
